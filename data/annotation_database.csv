@@ -1,0 +1,5 @@
+Position,Gene,Effect,Disease
+879317,BRCA1,Missense,Breast_Cancer
+879318,TP53,Synonymous,Cancer
+879319,CFTR,Nonsense,Cystic_Fibrosis
+879320,EGFR,Missense,Lung_Cancer

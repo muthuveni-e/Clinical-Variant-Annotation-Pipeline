@@ -1,0 +1,17 @@
+Day 1 Progress
+
+1. Installed Python
+2. Installed VS Code
+3. Created Clinical_Variant_Pipeline project
+4. Learned VCF file structure
+5. Read VCF file using Python
+6. Counted variants
+7. Extracted CHROM, POS, REF and ALT fields
+
+Challenges:
+- File path error
+- Indentation error
+
+Solutions:
+- Moved sample.vcf into data folder
+- Corrected Python indentation
